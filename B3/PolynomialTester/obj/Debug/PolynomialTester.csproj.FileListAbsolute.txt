@@ -1,0 +1,38 @@
+D:\KTPM\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\KTPM\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\KTPM\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\KTPM\B3\PolynomialTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\KTPM\B3\PolynomialTester\bin\Debug\PolynomialTester.dll
+D:\KTPM\B3\PolynomialTester\bin\Debug\PolynomialTester.pdb
+D:\KTPM\B3\PolynomialTester\bin\Debug\B3.exe
+D:\KTPM\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\KTPM\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\KTPM\B3\PolynomialTester\bin\Debug\B3.pdb
+D:\KTPM\B3\PolynomialTester\bin\Debug\B3.exe.config
+D:\KTPM\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\KTPM\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\KTPM\B3\PolynomialTester\obj\Debug\PolynomialTester.csproj.AssemblyReference.cache
+D:\KTPM\B3\PolynomialTester\obj\Debug\PolynomialTester.csproj.CoreCompileInputs.cache
+D:\KTPM\B3\PolynomialTester\obj\Debug\PolynomialTester.csproj.CopyComplete
+D:\KTPM\B3\PolynomialTester\obj\Debug\PolynomialTester.dll
+D:\KTPM\B3\PolynomialTester\obj\Debug\PolynomialTester.pdb
+D:\KTPM\B3\PolynomialTester\bin\Debug\Data\TestData.csv
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Data\TestData.csv
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\PolynomialTester.dll
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\PolynomialTester.pdb
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\B3.exe
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\B3.pdb
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\B3.exe.config
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\obj\Debug\PolynomialTester.csproj.AssemblyReference.cache
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\obj\Debug\PolynomialTester.csproj.CoreCompileInputs.cache
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\obj\Debug\PolynomialTester.csproj.CopyComplete
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\obj\Debug\PolynomialTester.dll
+C:\Users\Thao Doan\Desktop\B3\PolynomialTester\obj\Debug\PolynomialTester.pdb

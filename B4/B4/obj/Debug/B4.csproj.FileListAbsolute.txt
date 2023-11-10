@@ -1,0 +1,22 @@
+D:\KTPM\B4\B4\obj\Debug\B4.csproj.AssemblyReference.cache
+D:\KTPM\B4\B4\obj\Debug\B4.csproj.SuggestedBindingRedirects.cache
+D:\KTPM\B4\B4\obj\Debug\B4.Properties.Resources.resources
+D:\KTPM\B4\B4\obj\Debug\B4.csproj.GenerateResource.cache
+D:\KTPM\B4\B4\obj\Debug\B4.csproj.CoreCompileInputs.cache
+D:\KTPM\B4\B4\bin\Debug\B4.exe.config
+D:\KTPM\B4\B4\bin\Debug\B4.exe
+D:\KTPM\B4\B4\bin\Debug\B4.pdb
+D:\KTPM\B4\B4\obj\Debug\B4.Form1.resources
+D:\KTPM\B4\B4\obj\Debug\B4.exe
+D:\KTPM\B4\B4\obj\Debug\B4.pdb
+C:\Users\Thao Doan\Desktop\B4\B4\bin\Debug\B4.exe.config
+C:\Users\Thao Doan\Desktop\B4\B4\bin\Debug\B4.exe
+C:\Users\Thao Doan\Desktop\B4\B4\bin\Debug\B4.pdb
+C:\Users\Thao Doan\Desktop\B4\B4\obj\Debug\B4.csproj.AssemblyReference.cache
+C:\Users\Thao Doan\Desktop\B4\B4\obj\Debug\B4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thao Doan\Desktop\B4\B4\obj\Debug\B4.Form1.resources
+C:\Users\Thao Doan\Desktop\B4\B4\obj\Debug\B4.Properties.Resources.resources
+C:\Users\Thao Doan\Desktop\B4\B4\obj\Debug\B4.csproj.GenerateResource.cache
+C:\Users\Thao Doan\Desktop\B4\B4\obj\Debug\B4.csproj.CoreCompileInputs.cache
+C:\Users\Thao Doan\Desktop\B4\B4\obj\Debug\B4.exe
+C:\Users\Thao Doan\Desktop\B4\B4\obj\Debug\B4.pdb

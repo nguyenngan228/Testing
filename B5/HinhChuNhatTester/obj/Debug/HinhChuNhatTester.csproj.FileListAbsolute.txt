@@ -1,0 +1,40 @@
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\HinhChuNhatTester.dll
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\HinhChuNhatTester.pdb
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\B5.exe
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\B5.pdb
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\B5.exe.config
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\KTPM\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.AssemblyReference.cache
+D:\KTPM\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.CoreCompileInputs.cache
+D:\KTPM\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.CopyComplete
+D:\KTPM\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.dll
+D:\KTPM\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.pdb
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Data\TestData.csv
+D:\KTPM\B5\HinhChuNhatTester\bin\Debug\Data\TestData_2HCNGiaoNhau.csv
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Data\TestData.csv
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Data\TestData_2HCNGiaoNhau.csv
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\HinhChuNhatTester.dll
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\HinhChuNhatTester.pdb
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\B5.exe
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\B5.pdb
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\B5.exe.config
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.AssemblyReference.cache
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.CoreCompileInputs.cache
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.CopyComplete
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.dll
+C:\Users\Thao Doan\Desktop\B5\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.pdb

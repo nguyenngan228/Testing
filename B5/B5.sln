@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B5", "B5\B5.csproj", "{91D11C42-E078-4E91-86CF-CB5C469D83B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HinhChuNhatTester", "HinhChuNhatTester\HinhChuNhatTester.csproj", "{237CC8DC-2F10-43B2-B3BE-DD13631838FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D11C42-E078-4E91-86CF-CB5C469D83B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D11C42-E078-4E91-86CF-CB5C469D83B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D11C42-E078-4E91-86CF-CB5C469D83B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D11C42-E078-4E91-86CF-CB5C469D83B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237CC8DC-2F10-43B2-B3BE-DD13631838FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237CC8DC-2F10-43B2-B3BE-DD13631838FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237CC8DC-2F10-43B2-B3BE-DD13631838FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237CC8DC-2F10-43B2-B3BE-DD13631838FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B443C6-0F5C-42E8-A73F-03EC644755EE}
+	EndGlobalSection
+EndGlobal

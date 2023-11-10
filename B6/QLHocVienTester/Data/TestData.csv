@@ -1,0 +1,5 @@
+﻿maHV,hoTen,queQuan,diem1,diem2,diem3,expected
+HV2,Nguyen Van B,Binh Duong,5,9,10,true
+HV3,Nguyen Van C,Ha Noi,4,9,10,false
+HV4,Nguyen Van D,Hai Phong,8,3,10,false
+HV5,Nguyen Van E,TPHCM,8,5,10, false
